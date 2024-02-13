@@ -1,0 +1,16 @@
+  160  brew install git
+  161  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  162  brew install git
+  163  git --version
+  164  git init
+  165  ls
+  166  cd Documents
+  167  ls
+  168  mkdir workspace
+  169  cd workspace
+  170  ls
+  171  git init
+  172  git clone https://github.com/laurindaaa/sampleProject.git
+  173  ls
+  174  cd sampleProject
+  175  ls
